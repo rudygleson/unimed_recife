@@ -1,0 +1,2 @@
+Não colocar a pasta 
+** app_unimed_recife ** Dentro do htdocs, colocar ela no mesmo nível, ou seja dentro do da pasta xampp apenas.
